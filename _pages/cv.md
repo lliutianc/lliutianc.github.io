@@ -30,7 +30,7 @@ Professional Experience
 * 06/2019-08/2019, Mobiu-Space DYWX Tech co. LTD, Shenzhen, Guangdong, China, *Machine Learning Engineer*
 
 * 11/2017-05/2019, Ali-sports co. LTD, Alibaba Group, Beijing, China, *Data Algorithm Engineer*
-  * Annual Review: 3.75A (highest level)
+  <!-- * Annual Review: 3.75A (highest level) -->
 
 * 02/2017-08/2017, Li-Ma-Yao Network Tech co. LTD, Xiamen, Fujian, China, *Machine Learning Engineer*
 
