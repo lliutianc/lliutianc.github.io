@@ -13,7 +13,7 @@ Education
 ======
 * 2013-2017, B.S. in Statistics, Xiamen University
 * 2019-2021, M.S. in Applied Statistics, University of Michigan
-* 2021-2026 (Expected), Ph.D in Electrical and Computer Engineering, Purdue University
+* 2021-2026 (Expected), Ph.D. in Electrical and Computer Engineering, Purdue University
 
 Teaching Experience
 * 2022Fall, ECE 595: Introduction to Data Mining, *Teaching Assistant, , Purdue University*
