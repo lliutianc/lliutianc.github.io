@@ -11,23 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2013-2017, B.S. in Statistics, Xiamen University
+* 2019-2021, M.S. in Applied Statistics, University of Michigan
+* 2021-2026 (Expected), Ph.D in Electrical and Computer Engineering, Purdue University
 
-Work experience
+Teaching Experience
+* 2022Fall, ECE 595: Introduction to Data Mining, *Teaching Assistant, , Purdue University*
+
+* 2022Fall, ECE 629: Introduction to Neural Networks, *Teaching Assistant, Purdue University*
+
+* 2022Spring, ECE 595: Data Mining: Basic Concepts and Techniques, *Grader, Purdue University*
+
+* 2020Fall, STATS 426: Introduction to Theoretical Statistics, *Teaching Assistant, University of Michigan*
+
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2019-08/2019, Mobiu-Space DYWX Tech co. LTD, Shenzhen, Guangdong, China, *Machine Learning Engineer*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 11/2017-05/2019, Ali-sports co. LTD, Alibaba Group, Beijing, China, *Data Algorithm Engineer*
+  * Annual Review: 3.75A (highest level at Alibaba)
+
+* 02/2017-08/2017, Li-Ma-Yao Network Tech co. LTD, Xiamen, Fujian, China, *Machine Learning Engineer*
+
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
