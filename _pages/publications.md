@@ -17,4 +17,5 @@ author_profile: true
 
 
 **Tianci Liu**, Quan Zhang, QI Liu. "PANOM: Automatic Hyper-parameter Tuning for Inverse Problem", <i>NeurIPS Workshop on Deep Learning and Inverse Problems </i>. 2021.
+
 **Tianci Liu**, Jeffrey Regier. "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation", <i>NeurIPS Workshop on Bayesian Deep Learning </i>. 2021.
