@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tianci Liu"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,22 +17,22 @@ Education
 
 Teaching Experience
 ======
-* 2022Fall, ECE 595: Introduction to Data Mining, *Teaching Assistant*, Purdue University
+* 2022 Fall, ECE 595: Introduction to Data Mining, *Teaching Assistant*, Purdue University
 
-* 2022Fall, ECE 629: Introduction to Neural Networks, *Teaching Assistant*, Purdue University
+* 2022 Fall, ECE 629: Introduction to Neural Networks, *Teaching Assistant*, Purdue University
 
-* 2022Spring, ECE 595: Data Mining: Basic Concepts and Techniques, *Grader*, Purdue University
+* 2022 Spring, ECE 595: Data Mining: Basic Concepts and Techniques, *Grader*, Purdue University
 
-* 2020Fall, STATS 426: Introduction to Theoretical Statistics, *Teaching Assistant*, University of Michigan
+* 2020 Fall, STATS 426: Introduction to Theoretical Statistics, *Teaching Assistant*, University of Michigan
 
 Professional Experience
 ======
-* 06/2019-08/2019, Mobiu-Space DYWX Tech co. LTD, Shenzhen, Guangdong, China, *Machine Learning Engineer*
+* 06/2019 - 08/2019, Mobiu-Space DYWX Tech co. LTD, Shenzhen, Guangdong, China, *Machine Learning Engineer*
 
-* 11/2017-05/2019, Ali-sports co. LTD, Alibaba Group, Beijing, China, *Data Algorithm Engineer*
+* 11/2017 - 05/2019, Ali-sports co. LTD, Alibaba Group, Beijing, China, *Data Algorithm Engineer*
   <!-- * Annual Review: 3.75A (highest level) -->
 
-* 02/2017-08/2017, Li-Ma-Yao Network Tech co. LTD, Xiamen, Fujian, China, *Machine Learning Engineer*
+* 02/2017 - 08/2017, Li-Ma-Yao Network Tech co. LTD, Xiamen, Fujian, China, *Machine Learning Engineer*
 
 
 <!-- Skills
