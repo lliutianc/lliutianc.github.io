@@ -15,11 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-- Daiwei Zhang, **Tianci Liu**, Jian Kang. "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks.", 
-*Stat, in press* 
-
 - **Tianci Liu$$^\ast$$**, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, “Optimization for Amortized Inverse Problems.”
 *40th International Conference on Machine Learning (ICML 2023), Honolulu, Hawaii, Jul 2023.*
+
+- Daiwei Zhang, **Tianci Liu**, Jian Kang. "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks.", 
+*Stat, in press* 
 
 - Zichi, Laura, **Tianci Liu**, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu. “Physically informed
 machine-learning algorithms for the identification of two-dimensional atomic crystals.” 
