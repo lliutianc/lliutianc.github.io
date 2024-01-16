@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Tianci Liu (天赐 刘), a second-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
+My name is Tianci Liu (天赐 刘), a third-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 I am broadly interested in trustworthy machine learning. In particular, I am interested in integrating statistical inference and deep learning methods. Some topics I have explored or been exploring include: deep generative models, algorithmic fairness and deep networks uncertainty. 
 
 <!-- 

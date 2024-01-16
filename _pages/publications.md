@@ -15,11 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+- **Tianci Liu**, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
+*12th International Conference on Learning Representations (ICLR), Austria, May 2024*.
 
-- Daiwei Zhang, **Tianci Liu**, Jian Kang. "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
+- Haoyu Wang, Yaqing Wang, **Tianci Liu**, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
+*Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2023), Singapore, Dec. 2023*.
+
+- Daiwei Zhang, **Tianci Liu**, Jian Kang, "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
 *Stat, 12(1), e604*.
 
-- **Tianci Liu$$^\ast$$**, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, “Optimization for Amortized Inverse Problems.”
+- **Tianci Liu$$^\ast$$**, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
 *40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, Jul 2023*.
 
 - **Tianci Liu**, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
