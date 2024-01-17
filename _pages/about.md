@@ -7,14 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Tianci Liu (天赐 刘), a third-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
-I am broadly interested in trustworthy machine learning. In particular, I am interested in integrating statistical inference and deep learning methods. Some topics I have explored or been exploring include: deep generative models, algorithmic fairness and deep networks uncertainty. 
+My name is Tianci Liu, a third-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
+<!-- I am broadly interested in trustworthy machine learning with a special focus on understanding and improving trustworthness of machine learning in unfavorable scenarios.  -->
+I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the trustworthiness of machine learning in challenging scenarios. 
+Some topics I have explored or been exploring include: algorithmic fairness under data-scarcity, robustness of fair machine learning, and deep networks uncertainty. 
+<!-- I am broadly interested in trustworthy machine learning. In particular, I am interested in integrating statistical inference and deep learning methods. Some topics I have explored or been exploring include: deep generative models, algorithmic fairness and deep networks uncertainty.  -->
+
+I'm open to new academic collaborations, please feel free to [email](liu3351@purdue.edu) me if you find our interests match. 
 
 # Education
 
-* 2013 - 2017, B.S. in *Statistics*, School of Economics, Xiamen University
-* 2019 - 2021, M.S. in *Applied Statistics*, University of Michigan
 * 2021 - 2026 (Expected), Ph.D. in *Electrical and Computer Engineering*, Purdue University
+* 2019 - 2021, M.S. in *Applied Statistics*, University of Michigan
+* 2013 - 2017, B.S. in *Statistics*, School of Economics, Xiamen University
 
 
 # Publications
