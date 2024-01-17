@@ -14,7 +14,7 @@ I am broadly interested in trustworthy machine learning. In particular, I am int
 
 (* indicates equal contributions)
 
-## Conference Publications
+### Conference Publications
 
 [ICLR '24] **Tianci Liu**, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
 *12th International Conference on Learning Representations (ICLR), Austria, May 2024*.
@@ -28,14 +28,14 @@ I am broadly interested in trustworthy machine learning. In particular, I am int
 [AAAI '23] **Tianci Liu**, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
 *37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (Distinguished Paper Award)
 
-[NeurIPS '21] **Tianci Liu**, Quan Zhang, Qi Lei. "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
+[NeurIPS '21] **Tianci Liu**, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
 *NeurIPS Workshop on Deep Learning and Inverse Problems, 2021*. 
 
-[NeurIPS '21] **Tianci Liu**, Jeffrey Regier. "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
+[NeurIPS '21] **Tianci Liu**, Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
 *NeurIPS Workshop on Bayesian Deep Learning, 2021*.
 
 
-## Journal Publications
+### Journal Publications
 
 Daiwei Zhang, **Tianci Liu**, Jian Kang, "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
 *Stat, 12(1), e604*.

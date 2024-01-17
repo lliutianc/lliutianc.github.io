@@ -86,7 +86,7 @@ author:
   location         : "West Lafayette, IN"
   employer         :
   pubmed           :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dfjSP_QAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
