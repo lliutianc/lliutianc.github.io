@@ -10,6 +10,44 @@ redirect_from:
 My name is Tianci Liu (天赐 刘), a third-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 I am broadly interested in trustworthy machine learning. In particular, I am interested in integrating statistical inference and deep learning methods. Some topics I have explored or been exploring include: deep generative models, algorithmic fairness and deep networks uncertainty. 
 
+# Publications
+
+(* indicates equal contributions)
+
+## Conference Publications
+
+[ICLR '24] **Tianci Liu**, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
+*12th International Conference on Learning Representations (ICLR), Austria, May 2024*.
+
+[EMNLP '23] Haoyu Wang, Yaqing Wang, **Tianci Liu**, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
+*Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2023), Singapore, Dec. 2023*.
+
+[ICML '23] **Tianci Liu$$^\ast$$**, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
+*40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, Jul 2023*.
+
+[AAAI '23] **Tianci Liu**, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
+*37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (Distinguished Paper Award)
+
+[NeurIPS '21] **Tianci Liu**, Quan Zhang, Qi Lei. "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
+*NeurIPS Workshop on Deep Learning and Inverse Problems, 2021*. 
+
+[NeurIPS '21] **Tianci Liu**, Jeffrey Regier. "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
+*NeurIPS Workshop on Bayesian Deep Learning, 2021*.
+
+
+## Journal Publications
+
+Daiwei Zhang, **Tianci Liu**, Jian Kang, "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
+*Stat, 12(1), e604*.
+
+Zichi, Laura, **Tianci Liu**, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu. “Physically informed
+machine-learning algorithms for the identification of two-dimensional atomic crystals.” 
+*Scientific Reports 13, no. 1 (2023): 6143*. 
+
+**Tianci Liu**, Chun Wang, Gongjun Xu, "Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder." 
+*Frontiers in Psychology, 13:935419, 2022*.
+
+
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
