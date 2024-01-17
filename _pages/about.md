@@ -19,7 +19,7 @@ I am broadly interested in trustworthy machine learning. In particular, I am int
 
 # Publications
 
-($$^\ast$$ indicates equal contributions)
+( $$^\ast$$ indicates equal contribution)
 
 ### Conference Publications
 
@@ -27,19 +27,19 @@ I am broadly interested in trustworthy machine learning. In particular, I am int
 *12th International Conference on Learning Representations (ICLR), Austria, May 2024*.
 
 [EMNLP '23] Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
-*Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2023), Singapore, Dec. 2023*.
+*Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2023), Singapore, Dec 2023*.
 
 [ICML '23] <u>Tianci Liu</u>$$^\ast$$, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
 *40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, Jul 2023*.
 
 [AAAI '23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
-*37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (Distinguished Paper Award)
+*37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (**Distinguished Paper Award**)
 
 [NeurIPS '21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
-*NeurIPS Workshop on Deep Learning and Inverse Problems, 2021*. 
+*NeurIPS Workshop on Deep Learning and Inverse Problems, Virtual, 2021*. 
 
 [NeurIPS '21] <u>Tianci Liu</u> Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
-*NeurIPS Workshop on Bayesian Deep Learning, 2021*.
+*NeurIPS Workshop on Bayesian Deep Learning, Virtual, 2021*.
 
 
 ### Journal Publications
