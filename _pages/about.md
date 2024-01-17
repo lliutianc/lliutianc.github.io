@@ -35,10 +35,10 @@ I am broadly interested in trustworthy machine learning. In particular, I am int
 [AAAI '23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
 *37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (**Distinguished Paper Award**)
 
-[NeurIPS '21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
+[DeepInverse@NeurIPS '21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
 *NeurIPS Workshop on Deep Learning and Inverse Problems, Virtual, 2021*. 
 
-[NeurIPS '21] <u>Tianci Liu</u> Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
+[BDL@NeurIPS '21] <u>Tianci Liu</u>, Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
 *NeurIPS Workshop on Bayesian Deep Learning, Virtual, 2021*.
 
 
