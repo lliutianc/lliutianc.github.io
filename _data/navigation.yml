@@ -15,10 +15,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Experience"
-    url: /cv/
+  # - title: "Experience"
+  #   url: /cv/
   
-  - title: "MISC"
-    url: /misc/
+  # - title: "MISC"
+  #   url: /misc/
+  
   # - title: "Guide"
   #   url: /markdown/

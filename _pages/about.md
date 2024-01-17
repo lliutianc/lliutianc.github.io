@@ -10,41 +10,48 @@ redirect_from:
 My name is Tianci Liu (天赐 刘), a third-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 I am broadly interested in trustworthy machine learning. In particular, I am interested in integrating statistical inference and deep learning methods. Some topics I have explored or been exploring include: deep generative models, algorithmic fairness and deep networks uncertainty. 
 
+# Education
+
+* 2013 - 2017, B.S. in *Statistics*, School of Economics, Xiamen University
+* 2019 - 2021, M.S. in *Applied Statistics*, University of Michigan
+* 2021 - 2026 (Expected), Ph.D. in *Electrical and Computer Engineering*, Purdue University
+
+
 # Publications
 
-(* indicates equal contributions)
+($$^\ast$$ indicates equal contributions)
 
 ### Conference Publications
 
-[ICLR '24] **Tianci Liu**, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
+[ICLR '24] <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
 *12th International Conference on Learning Representations (ICLR), Austria, May 2024*.
 
-[EMNLP '23] Haoyu Wang, Yaqing Wang, **Tianci Liu**, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
+[EMNLP '23] Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
 *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2023), Singapore, Dec. 2023*.
 
-[ICML '23] **Tianci Liu$$^\ast$$**, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
+[ICML '23] <u>Tianci Liu</u>$$^\ast$$, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
 *40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, Jul 2023*.
 
-[AAAI '23] **Tianci Liu**, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
+[AAAI '23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
 *37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (Distinguished Paper Award)
 
-[NeurIPS '21] **Tianci Liu**, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
+[NeurIPS '21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
 *NeurIPS Workshop on Deep Learning and Inverse Problems, 2021*. 
 
-[NeurIPS '21] **Tianci Liu**, Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
+[NeurIPS '21] <u>Tianci Liu</u> Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
 *NeurIPS Workshop on Bayesian Deep Learning, 2021*.
 
 
 ### Journal Publications
 
-Daiwei Zhang, **Tianci Liu**, Jian Kang, "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
+Daiwei Zhang, <u>Tianci Liu</u>, Jian Kang, "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
 *Stat, 12(1), e604*.
 
-Zichi, Laura, **Tianci Liu**, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu. “Physically informed
+Zichi, Laura, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu. “Physically informed
 machine-learning algorithms for the identification of two-dimensional atomic crystals.” 
 *Scientific Reports 13, no. 1 (2023): 6143*. 
 
-**Tianci Liu**, Chun Wang, Gongjun Xu, "Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder." 
+<u>Tianci Liu</u>, Chun Wang, Gongjun Xu, "Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder." 
 *Frontiers in Psychology, 13:935419, 2022*.
 
 
