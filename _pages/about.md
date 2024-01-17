@@ -47,7 +47,7 @@ I am broadly interested in trustworthy machine learning. In particular, I am int
 Daiwei Zhang, <u>Tianci Liu</u>, Jian Kang, "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
 *Stat, 12(1), e604*.
 
-Zichi, Laura, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu. “Physically informed
+Zichi, Laura, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu, “Physically informed
 machine-learning algorithms for the identification of two-dimensional atomic crystals.” 
 *Scientific Reports 13, no. 1 (2023): 6143*. 
 
