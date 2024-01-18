@@ -21,9 +21,9 @@ I'm open to new academic collaborations, please feel free to email me at liu3351
 
 # Education
 
-* 2021 - 2026 (Expected), Ph.D. in *Electrical and Computer Engineering*, Purdue University
-* 2019 - 2021, M.S. in *Applied Statistics*, University of Michigan
-* 2013 - 2017, B.S. in *Statistics*, School of Economics, Xiamen University
+* 2021 - 2026 (Expected), Ph.D. in Electrical and Computer Engineering, Purdue University
+* 2019 - 2021, M.S. in Applied Statistics, University of Michigan
+* 2013 - 2017, B.S. in Statistics, School of Economics, Xiamen University
 
 
 # Publications
