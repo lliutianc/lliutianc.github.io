@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 I am currently a third-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
-Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire a MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
+Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire my MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
 
 <!-- I hold a Master's of  -->
 <!-- I am broadly interested in trustworthy machine learning with a special focus on understanding and improving trustworthness of machine learning in unfavorable scenarios.  -->
 
-I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the trustworthiness of machine learning in challenging scenarios. 
-Some topics I have explored or been exploring include: algorithmic fairness under data-scarcity, robustness of fair machine learning, and deep networks uncertainty. 
+I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the trustworthiness of machine learning in unfavorable scenarios. 
+Some topics I have explored or been exploring include: algorithmic fairness under data scarce regime, robustness of fair machine learning, and deep networks uncertainty. 
 <!-- I am broadly interested in trustworthy machine learning. In particular, I am interested in integrating statistical inference and deep learning methods. Some topics I have explored or been exploring include: deep generative models, algorithmic fairness and deep networks uncertainty.  -->
 
 I'm open to new academic collaborations, please feel free to email me at liu3351@purdue.edu if you find our interests match. 
