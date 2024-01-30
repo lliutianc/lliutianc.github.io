@@ -44,10 +44,10 @@ I'm open to new academic collaborations, please feel free to email me at liu3351
 *the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (**Distinguished Paper Award**)
 
 [DeepInverse@NeurIPS '21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
-*NeurIPS Workshop on Deep Learning and Inverse Problems, Virtual, 2021*. 
+*NeurIPS Workshop on Deep Learning and Inverse Problems, Virtual, Dec 2021*. 
 
 [BDL@NeurIPS '21] <u>Tianci Liu</u>, Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
-*NeurIPS Workshop on Bayesian Deep Learning, Virtual, 2021*.
+*NeurIPS Workshop on Bayesian Deep Learning, Virtual, Dec 2021*.
 
 
 ### Journal Publications
