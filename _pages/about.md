@@ -28,21 +28,20 @@ I'm open to new academic collaborations, please feel free to email me at liu3351
 
 # Publications
 
-( $$^\ast$$ indicates equal contribution)
 
 ### Conference Publications
 
 [ICLR '24] <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
-*12th International Conference on Learning Representations (ICLR), Austria, May 2024*.
+*the 12th International Conference on Learning Representations (ICLR), Austria, May 2024*.
 
 [EMNLP '23] Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
 *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2023), Singapore, Dec 2023*.
 
 [ICML '23] <u>Tianci Liu</u>$$^\ast$$, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
-*40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, Jul 2023*.
+*the 40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, Jul 2023*.
 
 [AAAI '23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
-*37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (**Distinguished Paper Award**)
+*the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (**Distinguished Paper Award**)
 
 [DeepInverse@NeurIPS '21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
 *NeurIPS Workshop on Deep Learning and Inverse Problems, Virtual, 2021*. 
@@ -53,15 +52,18 @@ I'm open to new academic collaborations, please feel free to email me at liu3351
 
 ### Journal Publications
 
-Daiwei Zhang, <u>Tianci Liu</u>, Jian Kang, "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
+Daiwei Zhang, <u>Tianci Liu</u>, Jian Kang (2023) "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
 *Stat, 12(1), e604*.
 
-Zichi, Laura, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu, “Physically informed
+Zichi, Laura, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu (2023) “Physically informed
 machine-learning algorithms for the identification of two-dimensional atomic crystals.” 
-*Scientific Reports 13, no. 1 (2023): 6143*. 
+*Scientific Reports 13(1): 6143*. 
 
-<u>Tianci Liu</u>, Chun Wang, Gongjun Xu, "Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder." 
-*Frontiers in Psychology, 13:935419, 2022*.
+<u>Tianci Liu</u>, Chun Wang, Gongjun Xu (2022) "Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder." 
+*Frontiers in Psychology, 13:935419*.
+
+
+( $$^\ast$$ = equal contribution)
 
 
 <!-- 
