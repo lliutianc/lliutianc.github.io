@@ -55,7 +55,7 @@ I'm open to new academic collaborations, please feel free to email me at liu3351
 Daiwei Zhang, <u>Tianci Liu</u>, Jian Kang (2023) "Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks." 
 *Stat, 12(1), e604*.
 
-Zichi, Laura, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu (2023) “Physically informed
+Laura Zichi, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu (2023) “Physically informed
 machine-learning algorithms for the identification of two-dimensional atomic crystals.” 
 *Scientific Reports 13(1): 6143*. 
 
