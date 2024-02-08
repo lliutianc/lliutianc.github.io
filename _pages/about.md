@@ -17,7 +17,7 @@ I am broadly interested in trustworthy machine learning with a special focus on 
 Some topics I have explored or been exploring include: algorithmic fairness under data scarce regime, robustness of fair machine learning, and deep networks uncertainty. 
 <!-- I am broadly interested in trustworthy machine learning. In particular, I am interested in integrating statistical inference and deep learning methods. Some topics I have explored or been exploring include: deep generative models, algorithmic fairness and deep networks uncertainty.  -->
 
-I'm open to new academic collaborations, please feel free to email me at liu3351@purdue.edu if you find our interests match. 
+<!-- I'm open to new academic collaborations, please feel free to email me at liu3351@purdue.edu if you find our interests match.  -->
 
 # Education
 
