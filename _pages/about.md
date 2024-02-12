@@ -31,22 +31,22 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 
 ### Conference Publications
 
-[ICLR '24] <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
+[ICLR'24] <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
 *the 12th International Conference on Learning Representations (ICLR), Austria, May 2024*.
 
-[EMNLP '23] Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
+[EMNLP'23] Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
 *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2023), Singapore, Dec 2023*.
 
-[ICML '23] <u>Tianci Liu</u>$$^\ast$$, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
+[ICML'23] <u>Tianci Liu</u>$$^\ast$$, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
 *the 40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, Jul 2023*.
 
-[AAAI '23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
+[AAAI'23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
 *the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington D.C., Feb 2023*. (**Distinguished Paper Award**)
 
-[DeepInverse@NeurIPS '21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
+[DeepInverse@NeurIPS'21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
 *NeurIPS Workshop on Deep Learning and Inverse Problems, Virtual, Dec 2021*. 
 
-[BDL@NeurIPS '21] <u>Tianci Liu</u>, Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
+[BDL@NeurIPS'21] <u>Tianci Liu</u>, Jeffrey Regier, "An Empirical Comparison of GANs and Normalizing Flows for Density Estimation."
 *NeurIPS Workshop on Bayesian Deep Learning, Virtual, Dec 2021*.
 
 
