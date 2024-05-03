@@ -13,8 +13,12 @@ Before coming to Purdue, I spent two wonderful years at University of Michigan t
 <!-- I hold a Master's of  -->
 <!-- I am broadly interested in trustworthy machine learning with a special focus on understanding and improving trustworthness of machine learning in unfavorable scenarios.  -->
 
-I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the trustworthiness of machine learning in unfavorable scenarios. 
-Some topics I have explored or been exploring include: algorithmic fairness under data scarce regime, robustness of fair machine learning, and deep networks uncertainty. 
+I am broadly interested in trustworthy machine learning with a special focus o comprehending and enhancing the effectiveness of trustworthy machine learning methods in challenging scenarios. 
+Some topics I explored recently include: 
+fairness through limited supervisions and under scarce data regime, and attacking fair representations under constrained budgets.
+
+<!-- I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the trustworthiness of machine learning in unfavorable scenarios. 
+Some topics I have explored or been exploring include: algorithmic fairness under data scarce regime, robustness of fair machine learning, and deep networks uncertainty.  -->
 <!-- I am broadly interested in trustworthy machine learning. In particular, I am interested in integrating statistical inference and deep learning methods. Some topics I have explored or been exploring include: deep generative models, algorithmic fairness and deep networks uncertainty.  -->
 
 <!-- I'm open to new academic collaborations, please feel free to email me at liu3351@purdue.edu if you find our interests match.  -->
