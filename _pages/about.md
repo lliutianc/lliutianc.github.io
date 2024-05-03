@@ -25,9 +25,11 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 
 # Education
 
-[ ] 2021 - 2026 (Expected), Ph.D. in Electrical and Computer Engineering, Purdue University
-[x] 2019 - 2021, M.S. in Applied Statistics, University of Michigan
-[x] 2013 - 2017, B.S. in Statistics, School of Economics, Xiamen University
+2021 - 2026 (Expected), Ph.D. in Electrical and Computer Engineering, Purdue University
+
+2019 - 2021, M.S. in Applied Statistics, University of Michigan
+
+2013 - 2017, B.S. in Statistics, School of Economics, Xiamen University
 
 
 # Publications
