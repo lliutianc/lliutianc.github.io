@@ -38,6 +38,7 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
 *The 41st International Conference on Machine Learning, Austria, Jul 2024*. 
+\
 (Spotlight)
 
 
@@ -51,7 +52,8 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 *The 40th International Conference on Machine Learning, Honolulu, Hawaii, Jul 2023*.
 
 [AAAI'23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
-*The 37th AAAI Conference on Artificial Intelligence, Washington D.C., Feb 2023*. (Distinguished Paper Award)
+*The 37th AAAI Conference on Artificial Intelligence, Washington D.C., Feb 2023*.\
+ (Distinguished Paper Award)
 
 [DeepInverse@NeurIPS'21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
 *NeurIPS Workshop on Deep Learning and Inverse Problems, Virtual, Dec 2021*. 
