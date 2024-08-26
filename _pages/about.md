@@ -7,15 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a third-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
+I am a fourth-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire my MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
 
 <!-- I hold a Master's of  -->
 <!-- I am broadly interested in trustworthy machine learning with a special focus on understanding and improving trustworthness of machine learning in unfavorable scenarios.  -->
 
-I am broadly interested in trustworthy machine learning with a special focus o comprehending and enhancing the effectiveness of trustworthy machine learning methods in challenging scenarios. 
-Some topics I explored recently include: 
-fairness through limited supervisions and under scarce data regime, and attacking fair representations under constrained budgets.
+I am broadly interested in trustworthy machine learning with a special focus o comprehending and enhancing the effectiveness of trustworthy machine learning methods in adverse scenarios. 
+Some topics I explored recently include supervision-efficient fair machine learning and fair machine learning security. 
 
 <!-- I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the trustworthiness of machine learning in unfavorable scenarios. 
 Some topics I have explored or been exploring include: algorithmic fairness under data scarce regime, robustness of fair machine learning, and deep networks uncertainty.  -->
@@ -38,7 +37,8 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 ### Conference Publications
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
-*The 41st International Conference on Machine Learning, Austria, Jul 2024*.
+*The 41st International Conference on Machine Learning, Austria, Jul 2024*. 
+(Spotlight)
 
 
 [ICLR'24] <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
@@ -51,7 +51,7 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 *The 40th International Conference on Machine Learning, Honolulu, Hawaii, Jul 2023*.
 
 [AAAI'23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
-*The 37th AAAI Conference on Artificial Intelligence, Washington D.C., Feb 2023*. (**Distinguished Paper Award**)
+*The 37th AAAI Conference on Artificial Intelligence, Washington D.C., Feb 2023*. (Distinguished Paper Award)
 
 [DeepInverse@NeurIPS'21] <u>Tianci Liu</u>, Quan Zhang, Qi Lei, "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems." 
 *NeurIPS Workshop on Deep Learning and Inverse Problems, Virtual, Dec 2021*. 
