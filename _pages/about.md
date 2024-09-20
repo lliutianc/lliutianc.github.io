@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
+I am a Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire my MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
 
 <!-- I hold a Master's of  -->
 <!-- I am broadly interested in trustworthy machine learning with a special focus on understanding and improving trustworthness of machine learning in unfavorable scenarios.  -->
 
-I am broadly interested in trustworthy machine learning with a special focus o comprehending and enhancing the effectiveness of trustworthy machine learning methods in adverse scenarios. 
+I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the effectiveness of trustworthy machine learning methods in adverse scenarios. 
 Some topics I explored recently include supervision-efficient fair machine learning and fair machine learning security. 
 
 <!-- I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the trustworthiness of machine learning in unfavorable scenarios. 
@@ -35,6 +35,12 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 
 
 ### Conference Publications
+
+
+[EMNLP'24] Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao, "RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of
+Pre-trained Language Model for Knowledge Editing and Fine-tuning."
+*The 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, Nov 2024.*
+
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
 *The 41st International Conference on Machine Learning, Austria, Jul 2024*. 
