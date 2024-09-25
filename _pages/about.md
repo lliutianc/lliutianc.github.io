@@ -36,6 +36,13 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 
 ### Conference Publications
 
+[NeurIPS'24] Zeyu Zhou, <u>Tianci Liu</u>, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye, 
+"Counterfactual Fairness by Combining Factual and Counterfactual Predictions."
+*Proceedings of the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
+
+[NeurIPS'24] Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao
+"FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction."
+*Proceedings of the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
 
 [EMNLP'24] Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao, "RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of
 Pre-trained Language Model for Knowledge Editing and Fine-tuning."
@@ -43,13 +50,13 @@ Pre-trained Language Model for Knowledge Editing and Fine-tuning."
 
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
-*The 41st International Conference on Machine Learning, Austria, Jul 2024*. 
+*The 41st International Conference on Machine Learning, Vienna, Austria, Jul 2024*. 
 \
 (Spotlight)
 
 
 [ICLR'24] <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao, "Towards Poisoning Fair Representations."
-*The 12th International Conference on Learning Representations, Austria, May 2024*.
+*The 12th International Conference on Learning Representations, Vienna, Austria, May 2024*.
 
 [EMNLP'23] Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao, "HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference."
 *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing, Singapore, Dec 2023*.
