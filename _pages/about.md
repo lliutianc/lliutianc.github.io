@@ -40,7 +40,7 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 "Counterfactual Fairness by Combining Factual and Counterfactual Predictions."
 *Proceedings of the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
 
-[NeurIPS'24] Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao
+[NeurIPS'24] Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao,
 "FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction."
 *Proceedings of the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
 
@@ -63,6 +63,8 @@ Pre-trained Language Model for Knowledge Editing and Fine-tuning."
 
 [ICML'23] <u>Tianci Liu</u>$$^\ast$$, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
 *The 40th International Conference on Machine Learning, Honolulu, Hawaii, Jul 2023*.
+\
+(equal contribution)
 
 [AAAI'23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
 *The 37th AAAI Conference on Artificial Intelligence, Washington D.C., Feb 2023*.\
@@ -87,8 +89,6 @@ machine-learning algorithms for the identification of two-dimensional atomic cry
 <u>Tianci Liu</u>, Chun Wang, Gongjun Xu (2022) "Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder." 
 *Frontiers in Psychology, 13:935419*.
 
-
-( $$^\ast$$ = equal contribution)
 
 
 <!-- 
