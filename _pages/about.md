@@ -64,7 +64,7 @@ Pre-trained Language Model for Knowledge Editing and Fine-tuning."
 [ICML'23] <u>Tianci Liu</u>$$^\ast$$, Tong Yang$$^\ast$$, Quan Zhang, Qi Lei, "Optimization for Amortized Inverse Problems."
 *The 40th International Conference on Machine Learning, Honolulu, Hawaii, Jul 2023*.
 \
-(equal contribution)
+(Equal contribution)
 
 [AAAI'23] <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao, "SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification." 
 *The 37th AAAI Conference on Artificial Intelligence, Washington D.C., Feb 2023*.\
