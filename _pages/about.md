@@ -38,15 +38,16 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 
 [NeurIPS'24] Zeyu Zhou, <u>Tianci Liu</u>, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye, 
 "Counterfactual Fairness by Combining Factual and Counterfactual Predictions."
-*Proceedings of the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
+*The 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
 
 [NeurIPS'24] Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao,
 "FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction."
-*Proceedings of the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
+*The 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
 
-[EMNLP'24] Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao, "RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of
+[EMNLP'24] Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao, 
+"RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of
 Pre-trained Language Model for Knowledge Editing and Fine-tuning."
-*The 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, Nov 2024.*
+*Main of the 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, Nov 2024.*
 
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
