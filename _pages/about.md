@@ -49,6 +49,17 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 Pre-trained Language Model for Knowledge Editing and Fine-tuning."
 *Main of the 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, Nov 2024.*
 
+[SenSys'24] 
+Qiming Cao, Hongfei Xue, <u>Tianci Liu</u>, Xingchen Wang, Haoyu Wang, Xincheng Zhang, Lu Su,
+"mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment."
+The 22nd ACM Conference on Embedded Networked Sensor System, Hangzhou, China, Nov 2024.
+
+
+[SenSys'24] 
+Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su,
+"Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement."
+The 22nd ACM Conference on Embedded Networked Sensor System, Hangzhou, China, Nov 2024.
+
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
 *The 41st International Conference on Machine Learning, Vienna, Austria, Jul 2024*. 
