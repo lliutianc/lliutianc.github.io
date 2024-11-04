@@ -56,13 +56,10 @@ Qiming Cao, Hongfei Xue, <u>Tianci Liu</u>, Xingchen Wang, Haoyu Wang, Xincheng 
 "mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment."
 The 22nd ACM Conference on Embedded Networked Sensor System, Hangzhou, China, Nov 2024.
 
-
 [SenSys'24] 
 Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su,
 "Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement."
 The 22nd ACM Conference on Embedded Networked Sensor System, Hangzhou, China, Nov 2024.
-
->>>>>>> 0b34ef9ebe34b27a3ef59c16155ba8e6c7070379
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
 *The 41st International Conference on Machine Learning, Vienna, Austria, Jul 2024*. 
