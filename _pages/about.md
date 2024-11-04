@@ -38,17 +38,31 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 
 [NeurIPS'24] Zeyu Zhou, <u>Tianci Liu</u>, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye, 
 "Counterfactual Fairness by Combining Factual and Counterfactual Predictions."
-*Proceedings of the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
+*The 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
 
 [NeurIPS'24] Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao,
 "FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction."
-*Proceedings of the 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
+*The 38th Annual Conference on Neural Information Processing Systems, Vancouver, Canada, Dec 2024.*
 
-[EMNLP'24] Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao, "RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of
+[EMNLP'24] Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao, 
+"RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of
 Pre-trained Language Model for Knowledge Editing and Fine-tuning."
 *The 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, Nov 2024.*
 \
 (Oral)
+
+[SenSys'24] 
+Qiming Cao, Hongfei Xue, <u>Tianci Liu</u>, Xingchen Wang, Haoyu Wang, Xincheng Zhang, Lu Su,
+"mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment."
+The 22nd ACM Conference on Embedded Networked Sensor System, Hangzhou, China, Nov 2024.
+
+
+[SenSys'24] 
+Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su,
+"Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement."
+The 22nd ACM Conference on Embedded Networked Sensor System, Hangzhou, China, Nov 2024.
+
+>>>>>>> 0b34ef9ebe34b27a3ef59c16155ba8e6c7070379
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
 *The 41st International Conference on Machine Learning, Vienna, Austria, Jul 2024*. 
