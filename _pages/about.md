@@ -47,7 +47,8 @@ Some topics I have explored or been exploring include: algorithmic fairness unde
 [EMNLP'24] Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao, "RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of
 Pre-trained Language Model for Knowledge Editing and Fine-tuning."
 *The 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, Nov 2024.*
-
+\
+(Oral)
 
 [ICML'24] <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao, "LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models."
 *The 41st International Conference on Machine Learning, Vienna, Austria, Jul 2024*. 
