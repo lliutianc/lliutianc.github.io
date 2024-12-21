@@ -68,16 +68,16 @@ html {
   font-family: 'Ubuntu', sans-serif;
 }
 
-.page {
-  max-width: var(--page-width);
-  margin: 0 auto;
-}
+// .page {
+//   max-width: var(--page-width);
+//   margin: 0 auto;
+// }
 
-.page__content {
-  max-width: var(--content-width);
-  margin: 0 auto;
-  font-family: 'Ubuntu', sans-serif;
-}
+// .page__content {
+//   max-width: var(--content-width);
+//   margin: 0 auto;
+//   font-family: 'Ubuntu', sans-serif;
+// }
 
 /* Original imports */
 @import "vendor/breakpoint/breakpoint"; // media query mixins
