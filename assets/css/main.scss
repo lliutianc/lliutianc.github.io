@@ -58,26 +58,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 
 /* Custom Variables - add these before other imports */
-:root {
-  --content-width: 70ch;  // Controls characters per line
-  --page-width: 1200px;   // Overall page width
-}
+// :root {
+//   --content-width: 70ch;  // Controls characters per line
+//   --page-width: 1200px;   // Overall page width
+// }
 
 /* Font and Width Customizations */
 html {
   font-family: 'Ubuntu', sans-serif;
 }
 
-// .page {
-//   max-width: var(--page-width);
-//   margin: 0 auto;
-// }
+.page {
+  max-width: var(--page-width);
+  margin: 0 auto;
+}
 
-// .page__content {
-//   max-width: var(--content-width);
-//   margin: 0 auto;
-//   font-family: 'Ubuntu', sans-serif;
-// }
+.page__content {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  font-family: 'Ubuntu', sans-serif;
+}
 
 /* Original imports */
 @import "vendor/breakpoint/breakpoint"; // media query mixins
