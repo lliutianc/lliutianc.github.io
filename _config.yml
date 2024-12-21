@@ -51,13 +51,13 @@ atom_feed:
 
 
 # Font Settings
-fonts:
-  # Primary font for main content
-  primary: "'Ubuntu', sans-serif"
-  # Heading font (optional)
-  heading: "'Ubuntu', sans-serif"
-  # Code font (optional)
-  code: "'Ubuntu', sans-serif"
+# fonts:
+#   # Primary font for main content
+#   primary: "'Ubuntu', sans-serif"
+#   # Heading font (optional)
+#   heading: "'Ubuntu', sans-serif"
+#   # Code font (optional)
+#   code: "'Ubuntu', sans-serif"
 
   
 # SEO Related
@@ -132,7 +132,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
