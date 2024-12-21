@@ -47,11 +47,11 @@ Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao.
 Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.
 
 - mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment. \
-<u>SenSys 2024</u>
+<u>SenSys 2024</u> \
 Qiming Cao, Hongfei Xue, <u>Tianci Liu</u>, Xingchen Wang, Haoyu Wang, Xincheng Zhang, Lu Su.
 
 - Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement. \
-<u>SenSys 2024</u>
+<u>SenSys 2024</u> \
 Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.
 
 - LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models. \
