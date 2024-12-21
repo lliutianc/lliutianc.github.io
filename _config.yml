@@ -51,9 +51,9 @@ atom_feed:
 
 
 # Font Settings
-fonts:
-  # Primary font for main content
-  primary: "'Ubuntu', sans-serif"
+# fonts:
+#   # Primary font for main content
+#   primary: "'Ubuntu', sans-serif"
 
   
 # SEO Related
