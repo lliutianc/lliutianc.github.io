@@ -53,11 +53,11 @@ atom_feed:
 # Font Settings
 fonts:
   # Primary font for main content
-  primary: "Roboto, 'Helvetica Neue', Arial, sans-serif"
+  primary: "'Ubuntu', sans-serif"
   # Heading font (optional)
-  heading: "'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif"
+  heading: "'Ubuntu', sans-serif"
   # Code font (optional)
-  code: "Monaco, Consolas, 'Lucida Console', monospace"
+  code: "'Ubuntu', sans-serif"
 
   
 # SEO Related
