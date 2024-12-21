@@ -49,6 +49,17 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+# Font Settings
+fonts:
+  # Primary font for main content
+  primary: "Roboto, 'Helvetica Neue', Arial, sans-serif"
+  # Heading font (optional)
+  heading: "'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif"
+  # Code font (optional)
+  code: "Monaco, Consolas, 'Lucida Console', monospace"
+
+  
 # SEO Related
 google_site_verification :
 bing_site_verification   :
