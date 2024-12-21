@@ -51,13 +51,13 @@ atom_feed:
 
 
 # Font Settings
-# fonts:
-#   # Primary font for main content
-#   primary: "Roboto, 'Helvetica Neue', Arial, sans-serif"
-#   # Heading font (optional)
-#   heading: "'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif"
-#   # Code font (optional)
-#   code: "Monaco, Consolas, 'Lucida Console', monospace"
+fonts:
+  # Primary font for main content
+  primary: "Roboto, 'Helvetica Neue', Arial, sans-serif"
+  # Heading font (optional)
+  heading: "'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif"
+  # Code font (optional)
+  code: "Monaco, Consolas, 'Lucida Console', monospace"
 
   
 # SEO Related
@@ -220,24 +220,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
