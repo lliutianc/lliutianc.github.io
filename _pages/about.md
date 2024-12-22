@@ -43,7 +43,7 @@ Zeyu Zhou, **Tianci Liu**, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye.
 Feijie Wu, Xingchen Wang, Yaqing Wang, **Tianci Liu**, Lu Su, Jing Gao.
 
 - RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning. \
-<u>EMNLP 2024</u> (Oral paper, top 2.8% of 6,105 submissions) \
+<u>EMNLP 2024</u> (Oral) \
 Haoyu Wang, **Tianci Liu**, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.
 
 - mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment. \
@@ -55,7 +55,7 @@ Qiming Cao, Hongfei Xue, **Tianci Liu**, Xingchen Wang, Haoyu Wang, Xincheng Zha
 Xingchen Wang, Haoyu Wang, Feijie Wu, **Tianci Liu**, Qiming Cao, Lu Su.
 
 - LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models. \
-<u>ICML 2024</u> (Spotlight paper, top 3.5% of 9,473 submissions) \
+<u>ICML 2024</u> (Spotlight) \
 **Tianci Liu**, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao. 
 
 - Towards Poisoning Fair Representations. \
@@ -72,7 +72,7 @@ Haoyu Wang, Yaqing Wang, **Tianci Liu**, Tuo Zhao, Jing Gao.
 
 
 - SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification. \
-<u>AAAI 2023</u> (Distinguished Paper Award, 12 of 8,777 submissions) \
+<u>AAAI 2023</u> (Distinguished Paper Award) \
 **Tianci Liu**, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.
 
 - PANOM: Automatic Hyper-parameter Tuning for Inverse Problems. \
