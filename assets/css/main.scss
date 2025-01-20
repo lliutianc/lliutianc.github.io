@@ -10,6 +10,7 @@
  *
 */
 
+{
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -55,3 +56,44 @@
 //   margin: 0 auto;
 //   font-family: 'Ubuntu', sans-serif;
 // }
+
+.publication {
+    max-width: 1200px;
+    margin: 20px auto;
+    
+    p {
+        margin: 0;
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .venue {
+        flex: 0 0 150px;
+        text-align: right;
+        padding-right: 20px;
+        font-weight: 500;
+    }
+
+    .content {
+        flex: 1;
+        min-width: 0;
+    }
+
+    strong {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    u {
+        text-decoration: none;
+        border-bottom: 2px solid #666;
+    }
+}
+
+h3 {
+    max-width: 1200px;
+    margin: 40px auto 20px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+}
