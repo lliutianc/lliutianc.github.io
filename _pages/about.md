@@ -29,40 +29,206 @@ B.S. in Statistics, \
 2013 - 2017.
 
 
-# Publications
+#  Publications
 
 
-### Conference Publications
+### 2024
 
-- Counterfactual Fairness by Combining Factual and Counterfactual Predictions. \
+
+
+
+<div class="publication">
+<!-- <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<div style="font-family: Arial, sans-serif;"> -->
+
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>NeurIPS'24</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction.</strong><br>
+Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao.
+</span>
+</p>
+
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>NeurIPS'24</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>Counterfactual Fairness by Combining Factual and Counterfactual Predictions.</strong><br>
+Zeyu Zhou, <u>Tianci Liu</u>, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye.
+</span>
+</p>
+
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>EMNLP'24</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning.</strong><br>
+Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.<br>
+<strong>(Oral, 2.8%)</strong>
+</span>
+</p>
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>SenSys'24</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment.</strong><br>
+Qiming Cao, Hongfei Xue, <u>Tianci Liu</u>, Xingchen Wang, Haoyu Wang, Xincheng Zhang, Lu Su.<br>
+</span>
+</p>
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>SenSys'24</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement.</strong><br>
+Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.<br>
+</span>
+</p>
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>ICML'24</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models.</strong><br>
+<u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao<br>
+<strong>(Spotlight, 3.8%)</strong>
+</span>
+</p>
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>ICLR'24</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>Towards Poisoning Fair Representations.</strong><br>
+<u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao.
+<br>
+</span>
+</p>
+
+
+### 2023
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>EMNLP'23 Findings</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference.</strong><br>
+<u>Tianci Liu\*</u>, Tong Yang\*, Quan Zhang, Qi Lei (Equal Contribution).
+<br>
+</span>
+</p>
+
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>ICML'23</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>Optimization for Amortized Inverse Problems.</strong><br>
+<u>Tianci Liu\*</u>, Tong Yang\*, Quan Zhang, Qi Lei (Equal Contribution).
+<br>
+</span>
+</p>
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>AAAI'23</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</strong><br>
+<u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.<br>
+<strong>(Distinguished Paper Award, 12 out of 8777 submissions)<srong>
+<br>
+</span>
+</p>
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>Stat</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks.</strong><br>
+Daiwei Zhang, <u>Tianci Liu</u>, Jian Kang.<br>
+<br>
+</span>
+</p>
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>Scientific Reports</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong>Physically informed machine-learning algorithms for the identification of two-dimensional atomic crystals.</strong><br>
+Laura Zichi, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu.<br>
+<br>
+</span>
+</p>
+
+
+### 2022 
+
+
+<div class="publication">
+<p>
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 5px"
+>Frontiers in Psychology</span>
+<span style="display: inline-block; width: calc(100% - 100px);">
+<strong> Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder.</strong><br>
+<u>Tianci Liu</u>, Chun Wang, Gongjun Xu.<br>
+<br>
+</span>
+</p>
+
+
+
+
+<!-- - FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction. \
 <u>NeruIPS 2024</u>\
-Zeyu Zhou, **Tianci Liu**, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye.
+Feijie Wu, Xingchen Wang, Yaqing Wang, **Tianci Liu**, Lu Su, Jing Gao. -->
 
-- FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction. \
-<u>NeruIPS 2024</u>\
-Feijie Wu, Xingchen Wang, Yaqing Wang, **Tianci Liu**, Lu Su, Jing Gao.
-
-- RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning. \
+<!-- - RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning. \
 <u>EMNLP 2024</u> (Oral) \
-Haoyu Wang, **Tianci Liu**, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.
+Haoyu Wang, **Tianci Liu**, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao. -->
 
-- mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment. \
+<!-- - mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment. \
 <u>SenSys 2024</u> \
 Qiming Cao, Hongfei Xue, **Tianci Liu**, Xingchen Wang, Haoyu Wang, Xincheng Zhang, Lu Su.
 
 - Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement. \
 <u>SenSys 2024</u> \
-Xingchen Wang, Haoyu Wang, Feijie Wu, **Tianci Liu**, Qiming Cao, Lu Su.
-
+Xingchen Wang, Haoyu Wang, Feijie Wu, **Tianci Liu**, Qiming Cao, Lu Su. -->
+<!-- 
 - LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models. \
 <u>ICML 2024</u> (Spotlight) \
-**Tianci Liu**, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao. 
+**Tianci Liu**, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao.  -->
 
-- Towards Poisoning Fair Representations. \
+<!-- - Towards Poisoning Fair Representations. \
 <u>ICLR 2024</u> \
-**Tianci Liu**, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao.
+**Tianci Liu**, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao. -->
 
-- HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference. \
+<!-- - HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference. \
 <u>EMNLP 2023 Findings</u> \
 Haoyu Wang, Yaqing Wang, **Tianci Liu**, Tuo Zhao, Jing Gao.
 
@@ -81,9 +247,9 @@ Haoyu Wang, Yaqing Wang, **Tianci Liu**, Tuo Zhao, Jing Gao.
 
 - An Empirical Comparison of GANs and Normalizing Flows for Density Estimation. \
 <u>NeurIPS 2021 Workshop on Bayesian Deep Learning</u> \
-**Tianci Liu**, Jeffrey Regier.
+**Tianci Liu**, Jeffrey Regier. -->
 
-
+<!-- 
 ### Journal Publications
 
 - Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks. \
@@ -97,5 +263,5 @@ Laura Zichi, **Tianci Liu**, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu.
 
 - Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder. \
 <u>Frontiers in Psychology, 13:935419</u> (2022) \
-**Tianci Liu**, Chun Wang, Gongjun Xu.
+**Tianci Liu**, Chun Wang, Gongjun Xu. -->
 
