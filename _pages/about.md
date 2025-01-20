@@ -14,7 +14,7 @@ I am broadly interested in trustworthy machine learning with a special focus on 
 Some topics I explored recently include supervision-efficient fair machine learning and fair machine learning security. 
 
 
-# Education
+<h2>Educations</h2>
 
 
 <div class="publication">
@@ -46,24 +46,12 @@ Some topics I explored recently include supervision-efficient fair machine learn
         </span>
     </p>
 </div>
-<!-- 
-- **Purdue University** \
-Ph.D. in Electrical and Computer Engineering, \
-2021 - 2026 (Expected).
-
-- **University of Michigan** \
-M.S. in Applied Statistics,  \
-2019 - 2021.
-
-- **Xiamen Univeristy** \
-B.S. in Statistics, \
-2013 - 2017. -->
 
 
-#  Publications
+<h2>Publications</h2>
 
 
-<h2>2024</h2>
+<h3>2024</h3>
 
 <!-- 2024 Publications -->
 <div class="publication">
@@ -138,7 +126,7 @@ B.S. in Statistics, \
     </p>
 </div>
 
-<h2>2023</h2>
+<h3>2023</h3>
 
 <div class="publication">
     <p>
@@ -191,7 +179,7 @@ B.S. in Statistics, \
     </p>
 </div>
 
-<h2>2022</h2>
+<h3>2022</h3>
 
 <div class="publication">
     <p>
