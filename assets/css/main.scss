@@ -10,7 +10,6 @@
  *
 */
 
-{
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -93,7 +92,4 @@
 h3 {
     max-width: 1200px;
     margin: 40px auto 20px;
-    padding-top: 20px;
-    border-top: 1px solid #eee;
-}
-}
+    padding-top
