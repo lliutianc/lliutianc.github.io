@@ -138,7 +138,7 @@ Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.<br>
 >EMNLP'23 Findings</span>
 <span style="display: inline-block; width: calc(100% - 100px);">
 <strong>HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference.</strong><br>
-<u>Tianci Liu\*</u>, Tong Yang\*, Quan Zhang, Qi Lei (Equal Contribution).
+Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao.
 <br>
 </span>
 </p>
@@ -152,7 +152,7 @@ Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.<br>
 >ICML'23</span>
 <span style="display: inline-block; width: calc(100% - 100px);">
 <strong>Optimization for Amortized Inverse Problems.</strong><br>
-<u>Tianci Liu\*</u>, Tong Yang\*, Quan Zhang, Qi Lei (Equal Contribution).
+<u>Tianci Liu*</u>, Tong Yang*, Quan Zhang, Qi Lei (Equal Contribution).
 <br>
 </span>
 </p>
@@ -166,7 +166,7 @@ Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.<br>
 <span style="display: inline-block; width: calc(100% - 100px);">
 <strong>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</strong><br>
 <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.<br>
-<strong>(Distinguished Paper Award, 12 out of 8777 submissions)<srong>
+<strong>(Distinguished Paper Award, 12 out of 8777 submissions)</strong>
 <br>
 </span>
 </p>
