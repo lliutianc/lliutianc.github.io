@@ -16,6 +16,37 @@ Some topics I explored recently include supervision-efficient fair machine learn
 
 # Education
 
+
+<div class="publication">
+    <p>
+        <span class="venue">2021-26 (Expected)</span>
+        <span class="content">
+          <strong>Purdue University</strong>
+          Ph.D. in Electrical and Computer Engineering      
+        </span>
+    </p>
+</div>
+
+<div class="publication">
+    <p>
+        <span class="venue">2019-21</span>
+        <span class="content">
+          <strong>University of Michigan</strong>
+          M.S. in Applied Statistics       
+        </span>
+    </p>
+</div>
+
+<div class="publication">
+    <p>
+        <span class="venue">2013-17</span>
+        <span class="content">
+          <strong>Xiamen University</strong>
+          B.S. in Statistics     
+        </span>
+    </p>
+</div>
+<!-- 
 - **Purdue University** \
 Ph.D. in Electrical and Computer Engineering, \
 2021 - 2026 (Expected).
@@ -26,14 +57,13 @@ M.S. in Applied Statistics,  \
 
 - **Xiamen Univeristy** \
 B.S. in Statistics, \
-2013 - 2017.
+2013 - 2017. -->
 
 
 #  Publications
 
 
-### 2024
-
+<h2>2024</h2>
 
 <!-- 2024 Publications -->
 <div class="publication">
@@ -108,7 +138,7 @@ B.S. in Statistics, \
     </p>
 </div>
 
-<h3>2023</h3>
+<h2>2023</h2>
 
 <div class="publication">
     <p>
@@ -161,7 +191,7 @@ B.S. in Statistics, \
     </p>
 </div>
 
-<h3>2022</h3>
+<h2>2022</h2>
 
 <div class="publication">
     <p>
