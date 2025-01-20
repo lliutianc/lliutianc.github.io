@@ -40,56 +40,43 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Font and Width Customizations */
-// html {
-//   font-family: 'Ubuntu', sans-serif;
-// }
-
-// .page {
-//   max-width: var(--page-width);
-//   margin: 0 auto;
-// }
-
-// .page__content {
-//   max-width: var(--content-width);
-//   margin: 0 auto;
-//   font-family: 'Ubuntu', sans-serif;
-// }
-
+/* Publications styles */
 .publication {
     max-width: 1200px;
     margin: 20px auto;
-    
-    p {
-        margin: 0;
-        display: flex;
-        align-items: flex-start;
-    }
+}
 
-    .venue {
-        flex: 0 0 150px;
-        text-align: right;
-        padding-right: 20px;
-        font-weight: 500;
-    }
+.publication p {
+    margin: 0;
+    display: flex;
+    align-items: flex-start;
+}
 
-    .content {
-        flex: 1;
-        min-width: 0;
-    }
+.publication .venue {
+    flex: 0 0 150px;
+    text-align: right;
+    padding-right: 20px;
+    font-weight: 500;
+}
 
-    strong {
-        display: block;
-        margin-bottom: 5px;
-    }
+.publication .content {
+    flex: 1;
+    min-width: 0;
+}
 
-    u {
-        text-decoration: none;
-        border-bottom: 2px solid #666;
-    }
+.publication strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.publication u {
+    text-decoration: none;
+    border-bottom: 2px solid #666;
 }
 
 h3 {
     max-width: 1200px;
     margin: 40px auto 20px;
-    padding-top
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
