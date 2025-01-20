@@ -42,9 +42,9 @@ B.S. in Statistics, \
 <div style="font-family: Arial, sans-serif;"> -->
 
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >NeurIPS'24</span>
-<span style="display: inline-block; width: calc(100% - 100px); font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px); font-size: 13px;">
 <strong>FIARSE: Model-Heterogeneity Federated Learning via Importance-Aware Submodel Extraction.</strong><br>
 Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao.
 </span>
@@ -55,9 +55,9 @@ Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao.
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >NeurIPS'24</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>Counterfactual Fairness by Combining Factual and Counterfactual Predictions.</strong><br>
 Zeyu Zhou, <u>Tianci Liu</u>, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye.
 </span>
@@ -68,9 +68,9 @@ Zeyu Zhou, <u>Tianci Liu</u>, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye.
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >EMNLP'24</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning.</strong><br>
 Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.<br>
 <strong>(Oral, 2.8%)</strong>
@@ -81,9 +81,9 @@ Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.<br>
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >SenSys'24</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>mmCLIP: Boosting mmWave-based Zero-shot HAR via Signal-Text Alignment.</strong><br>
 Qiming Cao, Hongfei Xue, <u>Tianci Liu</u>, Xingchen Wang, Haoyu Wang, Xincheng Zhang, Lu Su.<br>
 </span>
@@ -93,9 +93,9 @@ Qiming Cao, Hongfei Xue, <u>Tianci Liu</u>, Xingchen Wang, Haoyu Wang, Xincheng 
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >SenSys'24</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement.</strong><br>
 Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.<br>
 </span>
@@ -105,9 +105,9 @@ Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.<br>
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >ICML'24</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models.</strong><br>
 <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao<br>
 <strong>(Spotlight, 3.8%)</strong>
@@ -118,9 +118,9 @@ Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.<br>
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >ICLR'24</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>Towards Poisoning Fair Representations.</strong><br>
 <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao.
 <br>
@@ -134,9 +134,9 @@ Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.<br>
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >EMNLP'23 Findings</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>HadSkip: Homotopic and Adaptive Layer Skipping of Pre-trained Language Models for Efficient Inference.</strong><br>
 Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao.
 <br>
@@ -148,9 +148,9 @@ Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao.
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >ICML'23</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>Optimization for Amortized Inverse Problems.</strong><br>
 <u>Tianci Liu*</u>, Tong Yang*, Quan Zhang, Qi Lei (Equal Contribution).
 <br>
@@ -161,9 +161,9 @@ Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao.
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >AAAI'23</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</strong><br>
 <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.<br>
 <strong>(Distinguished Paper Award, 12 out of 8777 submissions)</strong>
@@ -175,9 +175,9 @@ Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao.
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >Stat</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>Density Regression and Uncertainty Quantification with Bayesian Deep Noise Neural Networks.</strong><br>
 Daiwei Zhang, <u>Tianci Liu</u>, Jian Kang.<br>
 <br>
@@ -188,9 +188,9 @@ Daiwei Zhang, <u>Tianci Liu</u>, Jian Kang.<br>
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >Scientific Reports</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong>Physically informed machine-learning algorithms for the identification of two-dimensional atomic crystals.</strong><br>
 Laura Zichi, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu.<br>
 <br>
@@ -204,9 +204,9 @@ Laura Zichi, <u>Tianci Liu</u>, Elizabeth Drueke, Liuyan Zhao, and Gongjun Xu.<b
 
 <div class="publication">
 <p>
-<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 12px;"
+<span style="display: inline-block; width: 80px; vertical-align: top;  text-align: right; margin-right: 20px;font-size: 13px;"
 >Frontiers in Psychology</span>
-<span style="display: inline-block; width: calc(100% - 100px);font-size: 12px;">
+<span style="display: inline-block; width: calc(100% - 100px);font-size: 13px;">
 <strong> Estimating three- and four-parameter MIRT models with importance-weighted sampling enhanced variational auto-encoder.</strong><br>
 <u>Tianci Liu</u>, Chun Wang, Gongjun Xu.<br>
 <br>
