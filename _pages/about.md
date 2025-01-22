@@ -53,7 +53,7 @@ See the full list on my google scholar.
 <h3>2025</h3>
 <div class="publication">
     <p>
-        <span class="venue">ICLR'24</span>
+        <span class="venue">ICLR'25</span>
         <span class="content">
             <strong>Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning.</strong>
             <u>Tianci Liu</u>, Ruirui Li, Haoyu Wang, Yunzhe Qi, Hui Liu, Xianfeng Tang, Tianqi Zheng, Qingyu Yin, Monica Xiao Cheng, Jun Huan, Jing Gao.
