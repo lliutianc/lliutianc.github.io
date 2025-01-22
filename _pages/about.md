@@ -10,9 +10,8 @@ redirect_from:
 I am a Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire my MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
 
-I am broadly interested in trustworthy machine learning with a special focus on comprehending and enhancing the effectiveness of trustworthy machine learning methods in adverse scenarios. 
-Some topics I explored recently include supervision-efficient fair machine learning and fair machine learning security. 
-
+I am interested in building helpful and safe AI/ML.
+In particular, I work on ML fairness to improve its practicality and security. Recently, I also explore enhancing fairness and helpfulness of LLMs with efficiency. 
 
 <h2>Educations</h2>
 
@@ -48,10 +47,21 @@ Some topics I explored recently include supervision-efficient fair machine learn
 </div>
 
 
-<h2>Publications</h2>
-<h3>2024</h3>
+<h2>Selected Publications</h2>
+See the full list on my google scholar. 
 
-<!-- 2024 Publications -->
+<h3>2025</h3>
+<div class="publication">
+    <p>
+        <span class="venue">ICLR'24</span>
+        <span class="content">
+            <strong>Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning.</strong>
+            <u>Tianci Liu</u>, Ruirui Li, Haoyu Wang, Yunzhe Qi, Hui Liu, Xianfeng Tang, Tianqi Zheng, Qingyu Yin, Monica Xiao Cheng, Jun Huan, Jing Gao.
+        </span>
+    </p>
+</div>
+
+<h3>2024</h3>
 <div class="publication">
     <p>
         <span class="venue">NeurIPS'24</span>
