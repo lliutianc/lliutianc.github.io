@@ -1,59 +1,15 @@
 ---
 permalink: /
-title: ""
+title: "Publications"
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
-Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire my MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
-
-I am broadly interested in building helpful and safe AI/ML.
-In particular, I work on ML fairness to improve its practicality and security. 
-My current interest lies in enhancing helpfulness and harmlessness of LLMs with efficiency. 
-
-<h2>Educations</h2>
 
 
-<div class="publication">
-    <p>
-        <span class="venue">2021-26 (Expected)</span>
-        <span class="content">
-          <strong>Purdue University</strong>
-          Ph.D. in Electrical and Computer Engineering      
-        </span>
-    </p>
-</div>
-
-<div class="publication">
-    <p>
-        <span class="venue">2019-21</span>
-        <span class="content">
-          <strong>University of Michigan</strong>
-          M.S. in Applied Statistics       
-        </span>
-    </p>
-</div>
-
-<div class="publication">
-    <p>
-        <span class="venue">2013-17</span>
-        <span class="content">
-          <strong>Xiamen University</strong>
-          B.S. in Statistics     
-        </span>
-    </p>
-</div>
-
-
-
-
-<h2>Selected Publications</h2>
-The full publication list can be found on my google scholar. 
-
-
+<h3>2025</h3>
 <div class="publication">
     <p>
         <span class="venue">ICLR'25</span>
@@ -63,7 +19,7 @@ The full publication list can be found on my google scholar.
         </span>
     </p>
 </div>
-<!-- 
+
 <h3>2024</h3>
 <div class="publication">
     <p>
@@ -73,7 +29,7 @@ The full publication list can be found on my google scholar.
             Feijie Wu, Xingchen Wang, Yaqing Wang, <u>Tianci Liu</u>, Lu Su, Jing Gao.
         </span>
     </p>
-</div> -->
+</div>
 
 <div class="publication">
     <p>
@@ -96,7 +52,7 @@ The full publication list can be found on my google scholar.
     </p>
 </div>
 
-<!-- <div class="publication">
+<div class="publication">
     <p>
         <span class="venue">SenSys'24</span>
         <span class="content">
@@ -114,7 +70,7 @@ The full publication list can be found on my google scholar.
             Xingchen Wang, Haoyu Wang, Feijie Wu, <u>Tianci Liu</u>, Qiming Cao, Lu Su.
         </span>
     </p>
-</div> -->
+</div>
 
 <div class="publication">
     <p>
@@ -137,9 +93,9 @@ The full publication list can be found on my google scholar.
     </p>
 </div>
 
-<!-- <h3>2023</h3> -->
+<h3>2023</h3>
 
-<!-- <div class="publication">
+<div class="publication">
     <p>
         <span class="venue">EMNLP'23 Findings</span>
         <span class="content">
@@ -147,7 +103,7 @@ The full publication list can be found on my google scholar.
             Haoyu Wang, Yaqing Wang, <u>Tianci Liu</u>, Tuo Zhao, Jing Gao.
         </span>
     </p>
-</div> -->
+</div>
 
 <div class="publication">
     <p>
@@ -170,7 +126,7 @@ The full publication list can be found on my google scholar.
     </p>
 </div>
 
-<!-- <div class="publication">
+<div class="publication">
     <p>
         <span class="venue">Stat</span>
         <span class="content">
@@ -200,4 +156,23 @@ The full publication list can be found on my google scholar.
             <u>Tianci Liu</u>, Chun Wang, Gongjun Xu.
         </span>
     </p>
-</div> -->
+
+<h3>2021</h3>
+
+<div class="publication">
+    <p>
+        <span class="venue">NeurIPS'21 BDL</span>
+        <span class="content">
+            <strong>An Empirical Comparison of GANs and Normalizing Flows for Density Estimation.</strong>
+            <u>Tianci Liu</u>, Jeffrey Regier.
+        </span>
+    </p>
+
+<div class="publication">
+    <p>
+        <span class="venue">NeurIPS'21 DeepInverse</span>
+        <span class="content">
+            <strong>PANOM: Automatic Hyper-parameter Tuning for Inverse Problems.</strong>
+            <u>Tianci Liu</u>, Quan Zhang, Qi Lei.
+        </span>
+    </p>
