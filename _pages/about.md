@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+
 I am a Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire my MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
 
@@ -51,7 +54,9 @@ My current interest lies in enhancing helpfulness and harmlessness of LLMs with 
 
 
 <h2>Selected Publications</h2>
-The full publication list can be found on my google scholar. 
+
+Here are selected papers that align with my current interests best. 
+The most up-to-date publication list can be found on my google scholar. 
 
 
 <div class="publication">
@@ -63,6 +68,7 @@ The full publication list can be found on my google scholar.
         </span>
     </p>
 </div>
+
 <!-- 
 <h3>2024</h3>
 <div class="publication">
@@ -122,7 +128,7 @@ The full publication list can be found on my google scholar.
         <span class="content">
             <strong>LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models.</strong>
             <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao<br>
-            <strong>(Spotlight, 3.8%)</strong>
+            <strong>(Spotlight, 3.5%)</strong>
         </span>
     </p>
 </div>

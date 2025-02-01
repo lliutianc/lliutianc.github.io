@@ -73,7 +73,7 @@ title: "Publications"
         <span class="content">
             <strong>LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models.</strong>
             <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao<br>
-            <strong>(Spotlight, 3.8%)</strong>
+            <strong>(Spotlight, 3.5%)</strong>
         </span>
     </p>
 </div>
