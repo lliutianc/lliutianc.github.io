@@ -3,6 +3,7 @@ permalink: /pub/
 title: "Publications"
 ---
 
+See the most up-to-date publication list on my [Google Scholar](https://scholar.google.com/citations?user=dfjSP_QAAAAJ&hl=en).
 
 <h3>2025</h3>
 <div class="publication">

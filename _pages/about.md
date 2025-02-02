@@ -56,7 +56,6 @@ My current interest lies in enhancing helpfulness and harmlessness of LLMs with 
 <h2>Selected Publications</h2>
 
 Here are a few  papers that align with my current interests best. 
-The most up-to-date publication list can be found on my google scholar. 
 
 
 <div class="publication">
