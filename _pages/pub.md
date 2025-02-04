@@ -103,21 +103,21 @@ See the most up-to-date publication list on my [Google Scholar](https://scholar.
 
 <div class="publication">
     <p>
-        <span class="venue">ICML'23</span>
+        <span class="venue">AAAI'23</span>
         <span class="content">
-            <strong>Optimization for Amortized Inverse Problems.</strong>
-            <u>Tianci Liu*</u>, Tong Yang*, Quan Zhang, Qi Lei (Equal Contribution).
+            <strong>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</strong>
+            <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.<br>
+            <strong>(Distinguished Paper Award, 12 out of 8777 submissions)</strong>
         </span>
     </p>
 </div>
 
 <div class="publication">
     <p>
-        <span class="venue">AAAI'23</span>
+        <span class="venue">ICML'23</span>
         <span class="content">
-            <strong>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</strong>
-            <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.<br>
-            <strong>(Distinguished Paper Award, 12 out of 8777 submissions)</strong>
+            <strong>Optimization for Amortized Inverse Problems.</strong>
+            <u>Tianci Liu*</u>, Tong Yang*, Quan Zhang, Qi Lei (Equal Contribution).
         </span>
     </p>
 </div>
