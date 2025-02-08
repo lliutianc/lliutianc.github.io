@@ -24,7 +24,7 @@ My current interests lie in enhancing helpfulness and harmlessness of LLMs with 
     <p>
         <span class="venue">2021-26 (Expected)</span>
         <span class="content">
-          <strong>Purdue University</strong>
+          <i>Purdue University</i>
           Ph.D. in Electrical and Computer Engineering      
         </span>
     </p>
@@ -34,7 +34,7 @@ My current interests lie in enhancing helpfulness and harmlessness of LLMs with 
     <p>
         <span class="venue">2019-21</span>
         <span class="content">
-          <strong>University of Michigan</strong>
+          <i>University of Michigan</i>
           M.S. in Applied Statistics       
         </span>
     </p>
@@ -44,7 +44,7 @@ My current interests lie in enhancing helpfulness and harmlessness of LLMs with 
     <p>
         <span class="venue">2013-17</span>
         <span class="content">
-          <strong>Xiamen University</strong>
+          <i>Xiamen University</i>
           B.S. in Statistics     
         </span>
     </p>
@@ -116,7 +116,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">AAAI'23</span>
         <span class="content">
-            SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.
+            <i>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</i>
             <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.<br>
             <strong>(Distinguished Paper Award, 12 out of 8777 submissions)</strong>
         </span>
@@ -127,7 +127,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICML'23</span>
         <span class="content">
-            Optimization for Amortized Inverse Problems.
+            <i>Optimization for Amortized Inverse Problems.</i>
             <u>Tianci Liu*</u>, Tong Yang*, Quan Zhang, Qi Lei (Equal Contribution).
         </span>
     </p>
