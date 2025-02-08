@@ -62,7 +62,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICLR'25</span>
         <span class="content">
-            <strong>Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning.</strong>
+            Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning.
             <u>Tianci Liu</u>, Ruirui Li, Haoyu Wang, Yunzhe Qi, Hui Liu, Xianfeng Tang, Tianqi Zheng, Qingyu Yin, Monica Xiao Cheng, Jun Huan, Jing Gao.
         </span>
     </p>
@@ -73,7 +73,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">NeurIPS'24</span>
         <span class="content">
-            <strong>Counterfactual Fairness by Combining Factual and Counterfactual Predictions.</strong>
+            Counterfactual Fairness by Combining Factual and Counterfactual Predictions.
             Zeyu Zhou, <u>Tianci Liu</u>, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye.
         </span>
     </p>
@@ -83,7 +83,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">EMNLP'24</span>
         <span class="content">
-            <strong>RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning.</strong>
+            RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning.
             Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.<br>
             <strong>(Oral, 2.8%)</strong>
         </span>
@@ -95,7 +95,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICML'24</span>
         <span class="content">
-            <strong>LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models.</strong>
+            LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models.
             <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao<br>
             <strong>(Spotlight, 3.5%)</strong>
         </span>
@@ -106,7 +106,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICLR'24</span>
         <span class="content">
-            <strong>Towards Poisoning Fair Representations.</strong>
+            Towards Poisoning Fair Representations.
             <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao.
         </span>
     </p>
@@ -116,7 +116,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">AAAI'23</span>
         <span class="content">
-            <strong>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</strong>
+            SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.
             <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.<br>
             <strong>(Distinguished Paper Award, 12 out of 8777 submissions)</strong>
         </span>
@@ -127,7 +127,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICML'23</span>
         <span class="content">
-            <strong>Optimization for Amortized Inverse Problems.</strong>
+            Optimization for Amortized Inverse Problems.
             <u>Tianci Liu*</u>, Tong Yang*, Quan Zhang, Qi Lei (Equal Contribution).
         </span>
     </p>
