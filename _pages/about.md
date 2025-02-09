@@ -68,7 +68,6 @@ Here are a few  papers that align with my current interests best.
     </p>
 </div>
 
-
 <div class="publication">
     <p>
         <span class="venue">NeurIPS'24</span>
@@ -83,13 +82,12 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">EMNLP'24</span>
         <span class="content">
-            RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning.</i><br>
+            <i>RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning.</i><br>
             Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.<br>
             <strong>(Oral, 2.8%)</strong>
         </span>
     </p>
 </div>
-
 
 <div class="publication">
     <p>
