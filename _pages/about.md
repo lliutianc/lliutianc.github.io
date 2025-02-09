@@ -24,7 +24,7 @@ My current interests lie in enhancing helpfulness and harmlessness of LLMs with 
     <p>
         <span class="venue">2021-26 (Expected)</span>
         <span class="content">
-          <i>Purdue University</i>
+          <i>Purdue University</i><br>
           Ph.D. in Electrical and Computer Engineering      
         </span>
     </p>
@@ -34,7 +34,7 @@ My current interests lie in enhancing helpfulness and harmlessness of LLMs with 
     <p>
         <span class="venue">2019-21</span>
         <span class="content">
-          <i>University of Michigan</i>
+          <i>University of Michigan</i><br>
           M.S. in Applied Statistics       
         </span>
     </p>
@@ -44,7 +44,7 @@ My current interests lie in enhancing helpfulness and harmlessness of LLMs with 
     <p>
         <span class="venue">2013-17</span>
         <span class="content">
-          <i>Xiamen University</i>
+          <i>Xiamen University</i><br>
           B.S. in Statistics     
         </span>
     </p>
@@ -62,7 +62,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICLR'25</span>
         <span class="content">
-            Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning.
+            <i>Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning.</i><br>            
             <u>Tianci Liu</u>, Ruirui Li, Haoyu Wang, Yunzhe Qi, Hui Liu, Xianfeng Tang, Tianqi Zheng, Qingyu Yin, Monica Xiao Cheng, Jun Huan, Jing Gao.
         </span>
     </p>
@@ -73,7 +73,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">NeurIPS'24</span>
         <span class="content">
-            Counterfactual Fairness by Combining Factual and Counterfactual Predictions.
+            <i>Counterfactual Fairness by Combining Factual and Counterfactual Predictions.</i><br>
             Zeyu Zhou, <u>Tianci Liu</u>, Ruqi Bai, Jing Gao, Murat Kocaoglu, David Inouye.
         </span>
     </p>
@@ -83,7 +83,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">EMNLP'24</span>
         <span class="content">
-            RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning.
+            RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning.</i><br>
             Haoyu Wang, <u>Tianci Liu</u>, Ruirui Li, Monica Cheng, Tuo Zhao, Jing Gao.<br>
             <strong>(Oral, 2.8%)</strong>
         </span>
@@ -95,7 +95,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICML'24</span>
         <span class="content">
-            LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models.
+            <i>LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models.</i><br>
             <u>Tianci Liu</u>, Haoyu Wang, Shiyang Wang, Yu Cheng, Jing Gao<br>
             <strong>(Spotlight, 3.5%)</strong>
         </span>
@@ -106,7 +106,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICLR'24</span>
         <span class="content">
-            Towards Poisoning Fair Representations.
+            <i>Towards Poisoning Fair Representations.</i><br>
             <u>Tianci Liu</u>, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao.
         </span>
     </p>
@@ -116,7 +116,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">AAAI'23</span>
         <span class="content">
-            <i>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</i>
+            <i>SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification.</i><br>
             <u>Tianci Liu</u>, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao.<br>
             <strong>(Distinguished Paper Award, 12 out of 8777 submissions)</strong>
         </span>
@@ -127,7 +127,7 @@ Here are a few  papers that align with my current interests best.
     <p>
         <span class="venue">ICML'23</span>
         <span class="content">
-            <i>Optimization for Amortized Inverse Problems.</i>
+            <i>Optimization for Amortized Inverse Problems.</i><br>
             <u>Tianci Liu*</u>, Tong Yang*, Quan Zhang, Qi Lei (Equal Contribution).
         </span>
     </p>
