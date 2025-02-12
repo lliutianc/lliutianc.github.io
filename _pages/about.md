@@ -63,7 +63,7 @@ Here are a few  papers that align with my current interests best.
         <span class="venue">ICLR'25</span>
         <span class="content">
             <i>Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning.</i><br>            
-            <u>Tianci Liu</u>, Ruirui Li, Haoyu Wang, Yunzhe Qi, Hui Liu, Xianfeng Tang, Tianqi Zheng, Qingyu Yin, Monica Xiao Cheng, Jun Huan, Jing Gao.
+            <u>Tianci Liu</u>, Ruirui Li, Haoyu Wang, Yunzhe Qi, Hui Liu, Xianfeng Tang, Tianqi Zheng, Qingyu Yin, Monica Cheng, Jun Huan, Jing Gao.
         </span>
     </p>
 </div>
