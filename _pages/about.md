@@ -13,10 +13,8 @@ redirect_from:
 I am a Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire my MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
 
-My research spans mitigating harmful biases, enhancing helpfulness and factuality of GenAI.
-To this end, I design and develop efficient and scalable algorithms for AI/ML.
-
-If you are interested in my work and want to discuss, feel free to reach out to me via [email](mailto:lliutianc@gmail.com).
+My research spans mitigating harmful biases, enhancing helpfulness and factuality, and improving efficiency of AI/ML.
+If you are interested in my work and want to discuss more, feel free to reach out to me via [email](mailto:lliutianc@gmail.com).
 
 
 
