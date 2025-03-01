@@ -16,6 +16,18 @@ See the up-to-date paper list on my [Google Scholar](https://scholar.google.com/
     </p>
 </div>
 
+
+<div class="publication">
+    <p>
+        <span class="venue">SenSys'25</span>
+        <span class="content">
+            <i>URAM-Hand: Robust Acoustic Multi-Hand Pose Reconstruction Using a Microphone Array.</i><br>
+            Shiyang Wang, Henglin Pu, Qiming Cao, Wenjun Jiang, Xingchen Wang, <u>Tianci Liu</u>, Zhengxin Jiang, Hongfei Xue, Lu Su.
+        </span>
+    </p>
+</div>
+
+
 <h3>2024</h3>
 <div class="publication">
     <p>
