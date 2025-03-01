@@ -13,7 +13,7 @@ redirect_from:
 I am a Ph.D. student in ECE at Purdue University under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/).
 Before coming to Purdue, I spent two wonderful years at University of Michigan to acquire my MS degree in Statistics. Prior to that, I got my BS degree from Xiamen University. 
 
-My research spans mitigating harmful biases, enhancing helpfulness and factuality, and improving efficiency of AI/ML.
+My research spans mitigating harmful biases, enhancing reliablility, and improving efficiency of AI/ML.
 If you are interested in my work and want to discuss more, feel free to reach out to me via [email](mailto:lliutianc@gmail.com).
 
 
@@ -64,7 +64,7 @@ Here are a few  papers that align with my current interests best.
         <span class="venue">ICLR'25</span>
         <span class="content">
             <i>Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning.</i><br>            
-            <u>Tianci Liu</u>, Ruirui Li, Haoyu Wang, Yunzhe Qi, Hui Liu, Xianfeng Tang, Tianqi Zheng, Qingyu Yin, Monica Cheng, Jun Huan, Jing Gao.
+            <u>Tianci Liu</u>, Ruirui Li, Yunzhe Qi, Hui Liu, Xianfeng Tang, Tianqi Zheng, Qingyu Yin, Monica Cheng, Jun Huan, Haoyu Wang, Jing Gao.
         </span>
     </p>
 </div>
