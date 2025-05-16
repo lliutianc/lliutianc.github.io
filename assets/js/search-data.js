@@ -30,6 +30,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-ram-hand-robust-acoustic-multi-hand-pose-reconstruction-using-a-microphone-array-won-best-paper-award-at-sensys-25",
           title: 'Our paper “RAM-Hand: Robust Acoustic Multi-Hand Pose Reconstruction Using a Microphone Array” won...',
           description: "",
+          section: "News",},{id: "news-our-paper-roserag-robust-retrieval-augmented-generation-with-small-scale-llms-via-margin-aware-preference-optimization-was-accepted-at-acl-25-findings",
+          title: 'Our paper “RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization”...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
