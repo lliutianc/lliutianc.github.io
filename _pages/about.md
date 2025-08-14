@@ -36,3 +36,6 @@ I also work on algorithmic fairness and its safety, inverse problems and its app
 
 
 Feel free to drop me an [email](mailto:lliutianc@gmail.com) if you are interested in my research or just want to chat. I am always open to new ideas and collaborations.
+
+**I am on the job market and am open to both academic positions and industrial research roles. If you believe I might be a good fit for your institution or organization, please feel free to reach out to me liu3351[AT]purdue.edu**
+
