@@ -33,7 +33,7 @@ I am a Ph.D. Candidate in [ECE@Purdue University](https://engineering.purdue.edu
 
 My research goal is to build knowledgeable, trustworthy, and efficient large-scale AI systems. My work is primarily focused on the following pillars:
 
-- **Knowledgeable \& Efficient LLMs**: I develop principled and scalable methods for knowledge editing, 
+- **Knowledgeable & Efficient LLMs**: I develop principled and scalable methods for knowledge editing, 
 retrieval-augmented generation (RAG), and efficient fine-tuning.
 
 - **Trustworthy AI (Fairness, Integrity & Safety)**: A cross-cutting theme of my work is ensuring AI systems are trustworthy. I tackle this from multiple angles: designing algorithms for debiasing models, auditing the vulnerabilities of fairness techniques, and protecting copyright and integrity through robust watermarking.
