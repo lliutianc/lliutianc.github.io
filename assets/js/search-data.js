@@ -33,6 +33,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-roserag-robust-retrieval-augmented-generation-with-small-scale-llms-via-margin-aware-preference-optimization-was-accepted-at-acl-25-findings",
           title: 'Our paper “RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization”...',
           description: "",
+          section: "News",},{id: "news-our-paper-towards-universal-debiasing-for-language-models-based-tabular-data-generation-and-learning-to-instruct-fine-tuning-a-task-aware-instruction-optimizer-for-black-box-llms-were-accepted-at-emnlp-25-findings",
+          title: 'Our paper “Towards Universal Debiasing for Language Models-based Tabular Data Generation” and “Learning...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
