@@ -31,14 +31,13 @@ I am a Ph.D. Candidate in [ECE@Purdue University](https://engineering.purdue.edu
 
 <!-- I am interested in building helpful and reliable AI/ML. My current research mainly focuses on building knowledgeable LLMs in efficiency. To this end, I have developed tools to conduct precise and generalizable knowledge update for LLMs. I am also interested in algorithmic fairness and AI safety.  -->
 
-My research goal is to develop principled methods for building trustworthy and knowledge-grounded machine learning models. My work is primarily focused on the following pillars:
+My research goal is to develop principled methods for building knowledgeable and efficient machine learning models. My work is primarily focused on the following pillars:
 
-- **Knowledgeable & Efficient LLMs**: I develop principled and scalable methods for knowledge editing, 
-retrieval-augmented generation (RAG), and efficient fine-tuning.
+- **Knowledgeable & Efficient LLMs**: I design scalable methods for knowledge editing, retrieval-augmented generation (RAG), and efficient fine-tuning to build precise, adaptable, and resource-efficient (M)LLMs, enabling seamless integration of diverse knowledge sources in real-world deployments.
 
-- **Trustworthy AI (Fairness, Integrity & Safety)**: A cross-cutting theme of my work is ensuring AI systems are trustworthy. I tackle this from multiple angles: designing algorithms for debiasing models, auditing the vulnerabilities of fairness techniques, and protecting copyright and integrity through robust watermarking.
+- **Trustworthy AI in a Data-Efficient Manner**: I create principled methods to understand and improve fairness and integrity in AI systems with minimal data, mitigating risks and delivering reliable outcomes with minimal data requirement.
 
-- **AI-Empowered Systems**: I am passionate about applying AI techniques to solve real-world problems, such as developing AI-driven wireless sensing systems.
+- **Applications**: I apply AI/ML to real-world challenges across domains, such as sensing systems, education, biomedical imaging, and physics-informed modeling.
 
 
 <!-- 
