@@ -35,17 +35,9 @@ My research goal is to develop principled methods for building knowledgeable and
 
 - **Knowledgeable & Efficient LLMs**: I design scalable methods for knowledge editing, retrieval-augmented generation (RAG), and efficient fine-tuning to build precise, adaptable, and resource-efficient (M)LLMs, enabling seamless integration of diverse knowledge sources in real-world deployments.
 
-- **Trustworthy AI in a Data-Efficient Manner**: I create principled methods to understand and improve fairness and integrity in AI systems with minimal data, mitigating risks and delivering reliable outcomes with minimal data requirement.
-
-- **Applications**: I apply AI/ML to real-world challenges across domains, such as sensing systems, education, biomedical imaging, and physics-informed modeling.
+- **Trustworthy AI/ML**: I create principled methods to understand and improve fairness and integrity in AI systems with minimal data, mitigating risks and delivering reliable outcomes with minimal data requirement.
 
 
-<!-- 
-I am broadly interested in building helpful and reliable AI/ML. My current research focuses on building knowledgeable LLMs in efficiency. To this end, I develop tools to conduct precise and generalizable knowledge update for LLMs. 
-I also work on algorithmic fairness and its safety, inverse problems and its applications, and AI-empowered wireless sensing systems. -->
 
-<!-- 
-Feel free to drop me an [email](mailto:lliutianc@gmail.com), if you are interested in my research or just want to chat. I am always open to new ideas and collaborations. -->
-
-**I am on the job market and am open to academic positions and industrial research roles. If you believe I might be a good fit for your institution or organization, please feel free to reach out to me liu3351[AT]purdue.edu**
+**I am on the job market and am open to academic positions and industrial research roles. If you believe I might be a good fit for your institution or organization, I'd love to chat! Please feel free to reach out to me liu3351[AT]purdue.edu**
 
