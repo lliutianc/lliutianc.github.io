@@ -36,6 +36,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-towards-universal-debiasing-for-language-models-based-tabular-data-generation-and-learning-to-instruct-fine-tuning-a-task-aware-instruction-optimizer-for-black-box-llms-were-accepted-at-emnlp-25-findings",
           title: 'Our paper “Towards Universal Debiasing for Language Models-based Tabular Data Generation” and “Learning...',
           description: "",
+          section: "News",},{id: "news-our-paper-toward-multimodal-general-purpose-and-generalizable-knowledge-editing-for-foundation-models-was-accepted-at-icdm-25-bluesky-track",
+          title: 'Our paper “Toward Multimodal, General-Purpose, and Generalizable Knowledge Editing for Foundation Models” was...',
+          description: "",
+          section: "News",},{id: "news-our-paper-peanut-parameter-efficient-adaptation-with-weight-aware-neural-tweakers-was-accepted-at-kdd-26-research-track",
+          title: 'Our paper “PEANuT: Parameter-Efficient Adaptation with Weight-aware Neural Tweakers” was accepted at KDD’26...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
