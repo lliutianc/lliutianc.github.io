@@ -29,6 +29,10 @@ latest_posts:
 
 I am a Ph.D. Candidate in [ECE@Purdue University](https://engineering.purdue.edu/ECE) under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/). Before coming to Purdue, I spent two wonderful years at [University of Michigan](https://nextprof.engin.umich.edu/nextprof-nexus/) to acquire my MS degree in Statistics. Prior to that, I got my BS degree from [Xiamen University](https://en.xmu.edu.cn/main.htm).
 
+Starting from 26 Fall, I will be joining University of Tennessee as a tenure-track assistant professor. 
+I am seeking students for Ph.D. in 27 Spring/Fall or research interns. Please email me with your CV and brief descriptions of your preferred research topics to [tliu43@utk.edu](mailto:tliu43@utk.edu) if you are interested. 
+Kindly mark the subject with [PhD/Research Intern Application].
+
 <!-- I am interested in building helpful and reliable AI/ML. My current research mainly focuses on building knowledgeable LLMs in efficiency. To this end, I have developed tools to conduct precise and generalizable knowledge update for LLMs. I am also interested in algorithmic fairness and AI safety.  -->
 
 My research goal is to develop principled methods for building knowledgeable and efficient machine learning models. My work is primarily focused on the following pillars:
@@ -37,7 +41,4 @@ My research goal is to develop principled methods for building knowledgeable and
 
 - **Trustworthy AI/ML**: I create principled methods to understand and improve fairness and integrity in AI systems with minimal data, mitigating risks and delivering reliable outcomes with minimal data requirement.
 
-
-
-**I am on the job market and am open to academic positions and industrial research roles. If you believe I might be a good fit for your institution or organization, I'd love to chat! Please feel free to reach out to me liu3351[AT]purdue.edu**
 
