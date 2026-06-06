@@ -14,7 +14,7 @@ profile:
   #   <p>West Lafayette</p> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,18 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. Candidate in [ECE@Purdue University](https://engineering.purdue.edu/ECE) under the supervision of Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/). Before coming to Purdue, I spent two wonderful years at [University of Michigan](https://nextprof.engin.umich.edu/nextprof-nexus/) to acquire my MS degree in Statistics. Prior to that, I got my BS degree from [Xiamen University](https://en.xmu.edu.cn/main.htm).
+I am an incoming assistant professor at the University of Tennessee, Knoxville. 
 
-Starting from 26 Fall, I will be joining University of Tennessee as a tenure-track assistant professor. 
-I am seeking students for Ph.D. in 27 Spring/Fall or research interns. Please email me with your CV and brief descriptions of your preferred research topics to [tliu43@utk.edu](mailto:tliu43@utk.edu) if you are interested. 
-Kindly mark the subject with [PhD/Research Intern Application].
+I am wrapping up my Ph.D. in [ECE @ Purdue](https://engineering.purdue.edu/ECE), advised by Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/). 
+I obtained my M.S. from the [University of Michigan](https://lsa.umich.edu/stats), and my B.S. from [Xiamen University](https://en.xmu.edu.cn/main.htm), both in Statistics. 
 
-<!-- I am interested in building helpful and reliable AI/ML. My current research mainly focuses on building knowledgeable LLMs in efficiency. To this end, I have developed tools to conduct precise and generalizable knowledge update for LLMs. I am also interested in algorithmic fairness and AI safety.  -->
+**I am actively recruiting students for two fully funded Ph.D. positions starting in Spring 2027, working on Artificial Intelligence, Machine Learning, and Natural Language Processing.** 
+I am also looking for research interns. 
+If you are interested, please feel free to email me at [tliu43@utk.edu](mailto:tliu43@utk.edu) with your CV and a brief description of your preferred research topics. 
 
-My research goal is to develop principled methods for building knowledgeable and efficient machine learning models. My work is primarily focused on the following pillars:
+My research focuses on developing principled methods for building knowledgeable, efficient, and reliable machine learning models, centered around two areas:
 
-- **Knowledgeable & Efficient LLMs**: I design scalable methods for knowledge editing, retrieval-augmented generation (RAG), and efficient fine-tuning to build precise, adaptable, and resource-efficient (M)LLMs, enabling seamless integration of diverse knowledge sources in real-world deployments.
+- **Knowledgeable & Efficient LLMs**: I design scalable methods for knowledge editing, retrieval-augmented generation (RAG), and efficient fine-tuning to build precise, adaptable, and resource-efficient (M)LLMs, enabling seamless integration of diverse knowledge sources in real-world deployments. 
 
-- **Trustworthy AI/ML**: I create principled methods to understand and improve fairness and integrity in AI systems with minimal data, mitigating risks and delivering reliable outcomes with minimal data requirement.
+- **Trustworthy AI/ML**: I develop principled methods to understand and improve AI integrity, mitigating risks and delivering reliable outcomes with minimal data requirements.
 
 
