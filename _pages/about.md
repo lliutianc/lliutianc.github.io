@@ -32,14 +32,14 @@ I am an incoming assistant professor at the University of Tennessee, Knoxville.
 I am wrapping up my Ph.D. in [ECE @ Purdue](https://engineering.purdue.edu/ECE), advised by Prof. [Jing Gao](https://engineering.purdue.edu/~jinggao/). 
 I obtained my M.S. from the [University of Michigan](https://lsa.umich.edu/stats), and my B.S. from [Xiamen University](https://en.xmu.edu.cn/main.htm), both in Statistics. 
 
-**I am actively recruiting students for two fully funded Ph.D. positions starting in Spring 2027, working on Artificial Intelligence, Machine Learning, and Natural Language Processing.** 
-I am also looking for research interns. 
-If you are interested, please feel free to email me at [tliu43@utk.edu](mailto:tliu43@utk.edu) with your CV and a brief description of your preferred research topics. 
-
 My research focuses on developing principled methods for building knowledgeable, efficient, and reliable machine learning models, centered around two areas:
 
 - **Knowledgeable & Efficient LLMs**: I design scalable methods for knowledge editing, retrieval-augmented generation (RAG), and efficient fine-tuning to build precise, adaptable, and resource-efficient (M)LLMs, enabling seamless integration of diverse knowledge sources in real-world deployments. 
 
 - **Trustworthy AI/ML**: I develop principled methods to understand and improve AI integrity, mitigating risks and delivering reliable outcomes with minimal data requirements.
 
+
+<em style="color: #c0392b;">I am actively recruiting students for two fully funded Ph.D. positions starting in Spring 2027, working on Artificial Intelligence, Machine Learning, and Natural Language Processing.
+I am also looking for research interns. 
+If you are interested, please feel free to email me at [tliu43@utk.edu](mailto:tliu43@utk.edu) with your CV and a brief description of your preferred research topics.</em> 
 
