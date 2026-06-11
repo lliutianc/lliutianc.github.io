@@ -39,7 +39,7 @@ My research focuses on developing principled methods for building knowledgeable,
 - **Trustworthy AI/ML**: I develop principled methods to understand and improve AI integrity, mitigating risks and delivering reliable outcomes with minimal data requirements.
 
 
-<em style="color: #c0392b;">I am actively recruiting students for two fully funded Ph.D. positions starting in Spring 2027, working on Artificial Intelligence, Machine Learning, and Natural Language Processing.
+📢 ***I am actively recruiting students for two fully funded Ph.D. positions starting in Spring 2027, working on Artificial Intelligence, Machine Learning, and Natural Language Processing.
 I am also looking for research interns. 
-If you are interested, please feel free to email me at [tliu43@utk.edu](mailto:tliu43@utk.edu) with your CV and a brief description of your preferred research topics.</em> 
+If you are interested, please feel free to email me at [tliu43@utk.edu](mailto:tliu43@utk.edu) with your CV and a brief description of your preferred research topics.*** 
 
